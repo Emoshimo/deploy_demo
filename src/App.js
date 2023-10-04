@@ -10,6 +10,7 @@ function App() {
       <h2>Did I fix the Error ?</h2>
       <h2>The Whack is going on</h2>
       <h2>The Whack is going on</h2>
+      <p>fuck it</p>
     </div>
   );
 }
